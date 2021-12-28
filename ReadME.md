@@ -128,6 +128,22 @@ selector {
 + padding
 + width
 
+#### Flex-box
++ display
+	- none
+	- inline
+	- block
+	- inline-block
++ position
+	-static
+	-relative
+	-absolute
+	-fixed
+	-sticky
++ align content
++ align_items
++ align-self
+
 
 
 

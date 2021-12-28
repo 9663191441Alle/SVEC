@@ -76,7 +76,57 @@
 
 ##### reference Links
 - [Flaticon]
+- [colorcodes]
+- [contrast color](https://webaim.org/resources/contrastchecker/)
 
+Task :
+=====
+- Audio
+- video
+- Canvas
+- progress
+- datalist
+- meter
+- select
+
+### CSS
++ cascading Style Sheets
++ Types of CSS
+	- inline CSS
+	- Internal CSS
+	- External CSS
++ syntax:
+
+'''
+selector {
+	 css properties
+}
+'''
+
+### Selectors
++ simple selectors
+	- universal selector (*)
+	- by element name
+	- Grouping  selector (,)
+	- class selector (.)
+	- id selector (#)
+
++ Combinators
+	+ Descendent selector ( )
+	+ child selector (>)
+	+ Adjacent sibling selector (+)
+	+ General sibling selector (~)
++ Pseudo class selector
++ Pseudo element selector
++ Attribute selector
+
+
+### BoxModel
+
++ margin
++ border
++ padding
++ width
 
 
 

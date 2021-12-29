@@ -144,15 +144,70 @@ selector {
 + align_items
 + align-self
 
+### Media Quries
+
+- extra small devices
+	- max-width:600px
+- small devices
+	- min-width:600px
+- medium devices
+	- min-width:768px
+- large devices
+	-  min-width:992px
+- extra large devices
+	- min-width:1200px
 
 
+'''
+@media only screen (max-width:320px) and (max-width:500px){
+	css code
+}
+'''
+
+### Bootstrap 4.6
+
+- It is a css framefork
+- Types of modes
+	- offline
+	- online
+		- CDN links
++ background-color-bg
++ text-white
+
++ margin in bootstrap (m-* (0.5))
+	- 0 --> 0rem
+	- 1 --> 0.25rem (4px)
++ margin-left (ml-3)
++ margin in all directions (m)
++ margin-left (ml)
 
 
++ colors
+	- primary
+	- secondary
+	- info
+	- success
+	- warning
+	- danger
+	- light
+	- dark
+	- white
 
++ we can use color classes for
+	- Buttons (btn btn-primary)
+	- text (text-white)
+	- background (bg-primary)
+	- alerts (alert alert-primary)
+	
 
+- module(collection of function and classes)
+- package(collection of module)
+- library(collection of packages)
+- framework(collection of library)
+ + module --> package -->library --> framework
 
-
-
++ grid system
+	-  col-sm-12
 
 
 

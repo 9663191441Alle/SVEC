@@ -265,3 +265,23 @@ selector {
 	  ...parameter
 	,,,
 
++ Destructuring of array & objects
+
+
++ Functions
+	- function with functionname
+	```
+	 function demo(x,y){
+		 return x+y
+	 }
+     demo();
+	```
+	- Anonymous function
+	```
+	 let demo=function(x,y){
+		 return x+y
+	 }
+	 ```
+
+	- Arrow function
+	 

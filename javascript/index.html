@@ -8,6 +8,12 @@
     <script src="./index.js"></script>
 </head>
 <body>
+
+    <div class="main">
+        <div class="child">
+            
+        </div>
+    </div>
     <script>
     //    console.log("Welcome")
     // function demo(){
@@ -26,6 +32,14 @@
     //     // console.log(name2);
     // }
     // console.log(name2);
+
+    var main=document.querySelector(".main")
+    var child=document.querySelector(".child")
+    
+    var heading=document.createElement("h1") 
+    heading.textContent="welcome"
+    child.appendChild(heading)
+    main.appendChild(child)
 
     </script>
 </body>

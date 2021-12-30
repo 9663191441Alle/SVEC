@@ -209,10 +209,59 @@ selector {
 + grid system
 	-  col-sm-12
 
+#### javascript
+
+- In 1995 ' brenden Eich ' introduced javascript (ES-262)
++ Javascript loosely touple and dynamic language
++ it is a text based programming language and we can run 
+  in client-side and server-side(Node.js) for dynamic web applications
+- ECMA (ES-6)
+	- let & const
+	- map()
+	- arrow function
+	- classes
+	- spred operator
+	- rest parameter
++ Datatypes
+	- number
+	- BigInt (2^53-1)
+	- String 
+	- boolean
+	- undefined
+	- Null
+	- object
+	- Arrays
++ variables
+	- var,let&const
+	- scope
+		- function level -->var
+		- block level--->let& const
+	- Redefine -->by var & let key word
+	- Redeclare -->var keyword
++ objects
 
 
+### Alerts
 
++ To generate Alert notification
+	- alert
+	- prompt
+	- confirm
 
++ console statements
+	- console.log()
+	- console.info()
+	- console.warn()
+	- console.error()
 
-
++ Spread operator
+	- to change array elements from one array to another
+	,,,
+	    ...variable
+	,,,
++ Rest parameters
+	+ to handle function parameters
+	,,,
+	  ...parameter
+	,,,
 

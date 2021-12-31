@@ -284,4 +284,61 @@ selector {
 	 ```
 
 	- Arrow function
-	 
+	
+
++ for-in
+	- index values
++ for-of
+	- elements in the array
++ for-each
+
++ map()
+
+### dom
+  - Document Object Model
+  - document
+  - history
+  - window
+  - navigator
+
+
+#### JSON
++ JavScript Object Notation
+	- to exchange information between application and server
+
+```
+{
+	"name":"Alle Chamundeswari",
+	"salary":"17LPA",
+	"mobile":8374455440
+}
+
+```
++ Ajax call or promises (fetch API) or axioms
+
+
+#### Front-end with ReactJs
+
+
+##### ReactJS Features
++ It is a library
++ It follows component based Architecture
+	- Function component
+	- Class component
+	- Pure Component
+	- Higher Order Component
++ It provides virtual DOM
++ unidirectional data flow
++ Single page Application
+
++ project Environment setUp
+	- [DownloadVisualStudioCode]
+	- [DownloadNode.Js] (https://nodejs.org/en/download/)
+	- install nodejs and check versions of `node` and `npm`
+		- `node -v`
+		- `npm -v`
+	- `webpack` and `babel`
+	- `create-react-app`
+		- `npm install create-react-app`
+			- `create-react-app projectname`
+	- `npx create-react-app appname`

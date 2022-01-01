@@ -10,10 +10,12 @@
 
 
 ### Backend technologies
+
+
 - Node.js
 	- express.js
 	- nodemoon
-	- core
+	- cors
 	- dotenv
 - PHP
 - c#
@@ -329,7 +331,46 @@ selector {
 	- Higher Order Component
 + It provides virtual DOM
 + unidirectional data flow
++ It provides JSX(Javascript and XMl)
 + Single page Application
+
+
++ props
+
+	- to pass data from one component to another component we will use
+	props
+	- prop are immutable
+
++ UnionBank
+	- AndhraBank(Functional)
+	- CorporationBank(Class)
+
+
++ States
+
+	- In react to maintain information we will use States
+	- we can maintain states in  class component only ( Before react 16.8 version)
+	- to take state in react , try to create constyructor  above render method and inside of class component.
+	- use `rconst` snippet
+
+	```
+	constructor(){
+		super();
+		this.state={
+
+		}
+	}
+    ```
+
+
+
+#### Hooks
+
+
+
+
+
++ redux
 
 + project Environment setUp
 	- [DownloadVisualStudioCode]
@@ -342,3 +383,21 @@ selector {
 		- `npm install create-react-app`
 			- `create-react-app projectname`
 	- `npx create-react-app appname`
+
+
++ index.html
++ index.js
++ App.js 
+	+ Indexpage
+		- nav.js
+		- body.js
+		- footer.js
+
+		+ Home PAge(Home.js)
+			- nav
+			- body
+			- footer
+		+ login.js
+		+ Register
+		+ About
+		+ contact

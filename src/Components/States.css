@@ -1,0 +1,17 @@
+.demo{
+    border: 2px solid gray;
+    color: lightblue;
+    background-color: lightpink;
+    width: 20%;
+    margin-left: auto;
+    margin-right: auto;
+    /* background-image: url(../../public/logo51); */
+    background-image: linear-gradient(to buttom,blue
+    ,gray);
+
+}
+button{
+    background-color: lightslategray;
+    color: black;
+     
+}
